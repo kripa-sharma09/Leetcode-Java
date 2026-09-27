@@ -20,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0013-roman-to-integer) |
+| [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
 | [2739-total-distance-traveled](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2739-total-distance-traveled) |
 ## Simulation
 |  |
 | ------- |
 | [2739-total-distance-traveled](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2739-total-distance-traveled) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
