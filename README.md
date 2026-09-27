@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
+| [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2235-add-two-integers) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -58,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
