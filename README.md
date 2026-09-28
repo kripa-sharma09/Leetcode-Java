@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
