@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
