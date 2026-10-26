@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
 | [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0704-binary-search) |
 ## Geometry
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
