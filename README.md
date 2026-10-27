@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
 | [1518-water-bottles](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1952-three-divisors) |
