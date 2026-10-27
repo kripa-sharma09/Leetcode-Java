@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
 | [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
+| [1518-water-bottles](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2235-add-two-integers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1518-water-bottles) |
 | [2739-total-distance-traveled](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2739-total-distance-traveled) |
 ## Binary Search
 |  |
