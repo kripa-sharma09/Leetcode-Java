@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
 ## Array
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0724-find-pivot-index) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
