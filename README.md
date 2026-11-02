@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0219-contains-duplicate-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0724-find-pivot-index) |
 ## Sorting
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0724-find-pivot-index) |
 ## Memoization
 |  |
