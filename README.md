@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Geometry
 |  |
 | ------- |
@@ -115,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0724-find-pivot-index) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0217-contains-duplicate) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
