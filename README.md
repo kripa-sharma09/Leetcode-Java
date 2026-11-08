@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2427-number-of-common-factors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2582-pass-the-pillow](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2582-pass-the-pillow) |
 | [2739-total-distance-traveled](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2739-total-distance-traveled) |
 | [3099-harshad-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/3099-harshad-number) |
 ## Simulation
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1518-water-bottles) |
+| [2582-pass-the-pillow](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2582-pass-the-pillow) |
 | [2739-total-distance-traveled](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/2739-total-distance-traveled) |
 ## Binary Search
 |  |
