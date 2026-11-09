@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0507-perfect-number) |
