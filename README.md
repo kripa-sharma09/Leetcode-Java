@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0507-perfect-number) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
