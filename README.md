@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1025-divisor-game) |
 | [1518-water-bottles](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/1952-three-divisors) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0724-find-pivot-index) |
@@ -193,10 +196,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0724-find-pivot-index) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0070-climbing-stairs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/kripa-sharma09/Leetcode-Java/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
